@@ -19,14 +19,27 @@ namespace LibraryAutomation1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(Txtusername.Text=="Anamul" && Txtuserpass.Text=="236411" && Txtusertype.Text=="Normal User")
+            Database2Entities content = new Database2Entities();
+            if(Txtusername.Text !=string.Empty && Txtuserpass.Text !=string.Empty && Txtusertype.Text !=string.Empty)
             {
-                new Form2().Show();
-                this.Hide();
+                var user = content.Admins.Where(x => x.username.Equals(Txtusername.Text)).FirstOrDefault();
+                if (user.userpass.Equals(Txtuserpass.Text))
+                {
+                    new Form2().Show();
+                    this.Hide();
+
+                }
+                else
+                {
+                    MessageBox.Show("The password you entered is incorrect.");
+
+                }
+
             }
             else
             {
-                MessageBox.Show("The username or password you entered is incorrect."); 
+                MessageBox.Show("The password you entered is incorrect.");
+
             }
         }
     }

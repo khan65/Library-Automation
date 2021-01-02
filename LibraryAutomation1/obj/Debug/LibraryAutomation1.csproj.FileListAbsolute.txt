@@ -8,6 +8,11 @@ C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\Lib
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.csproj.CoreCompileInputs.cache
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.exe
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.pdb
-C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Database1.mdf
-C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Database1_log.ldf
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Form2.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Database2.mdf
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Database2_log.ldf
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\EntityFramework.dll
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\EntityFramework.xml
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.csproj.CopyComplete
