@@ -1,0 +1,13 @@
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\LibraryAutomation1.exe.config
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\LibraryAutomation1.exe
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\LibraryAutomation1.pdb
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.csprojAssemblyReference.cache
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Form1.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Properties.Resources.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.csproj.GenerateResource.cache
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.csproj.CoreCompileInputs.cache
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.exe
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.pdb
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Database1.mdf
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Database1_log.ldf
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Form2.resources
