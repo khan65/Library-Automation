@@ -16,3 +16,8 @@ C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\Ent
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\EntityFramework.xml
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.csproj.CopyComplete
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Form5.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Form6.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.Form8.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.ManageBook.resources
+C:\Users\Anamul\source\repos\LibraryAutomation1\LibraryAutomation1\obj\Debug\LibraryAutomation1.SearchIssueForm.resources

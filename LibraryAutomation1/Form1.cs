@@ -20,6 +20,7 @@ namespace LibraryAutomation1
         private void button1_Click(object sender, EventArgs e)
         {
             Database2Entities content = new Database2Entities();
+
             if(Txtusername.Text !=string.Empty && Txtuserpass.Text !=string.Empty && Txtusertype.Text !=string.Empty)
             {
                 var user = content.Admins.Where(x => x.username.Equals(Txtusername.Text)).FirstOrDefault();
@@ -41,6 +42,11 @@ namespace LibraryAutomation1
                 MessageBox.Show("The password you entered is incorrect.");
 
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

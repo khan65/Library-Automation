@@ -26,5 +26,8 @@ namespace LibraryAutomation1
         }
     
         public virtual DbSet<Admin> Admins { get; set; }
+        public virtual DbSet<Book> Books { get; set; }
+        public virtual DbSet<Category> Categories { get; set; }
+        public virtual DbSet<IssueBook> IssueBooks { get; set; }
     }
 }
